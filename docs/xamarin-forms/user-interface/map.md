@@ -117,7 +117,7 @@ Ohne einen gültigen API-Schlüssel wird der Maps-Steuerelement als graues Feld 
 > [!NOTE]
 > Denken Sie daran, generieren Sie einen anderen Schlüssel mithilfe der Keystore-Datei, die verwendet wird, wie die endgültigen Produktversion von jeder Anwendung, die hochgeladen wird zum Google Play Store. Die schlüsselgenerierung für die Entwicklung und Debuggen funktioniert nicht, und die app von Google Play heruntergeladen werden Kartenanzeige zerstört. Beachten Sie dabei außerdem die Taste, wenn der app erneut generieren **Paketname** ändert.
 
-Sie müssen auch auf die entsprechende Berechtigungen zu aktivieren, indem Sie mit der rechten Maustaste auf das Android-Projekt, und wählen **Optionen > Erstellen > Android-Anwendung** und zu laufen Folgendes:
+Sie müssen zusätzlich die entsprechenden Berechtigungen aktivieren, indem Sie mit der rechten Maustaste auf das Android-Projekt klicken, und **Eigenschaften** wählen. Anschließend aktivieren Sie das **Android-Manifest**. Im unteren Bereich der Seite finden Sie eine Liste **Erforderliche Berechtigungen**, in der Sie die jeweiligen Berechtigungen, welche die Anwendung erfordert, über Checkboxen auswählen können. Aktivieren Sie nachfolgende Berechtigungen:
 
 * `AccessCoarseLocation`
 * `AccessFineLocation`
