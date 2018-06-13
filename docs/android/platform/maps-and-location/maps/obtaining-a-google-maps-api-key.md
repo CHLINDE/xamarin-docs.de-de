@@ -14,7 +14,7 @@ ms.lasthandoff: 04/04/2018
 ---
 # <a name="obtaining-a-google-maps-api-key"></a>Abrufen einer Google-API-Schlüssel zugeordnet ist
 
-Um die Funktionalität von Google Maps in Android verwenden zu können, müssen Sie für einen Maps-API-Schlüssel mit Google registrieren. Bis Sie dies tun, sehen Sie nur ein leeres Raster statt es als Karte in Ihren Anwendungen. Sie benötigen einen Google Maps Android-API v2-Schlüssel - Schlüssel von der älteren Google Maps Android-API-Schlüssel v1 funktioniert nicht.
+Um die Funktionalität von Google Maps in Android verwenden zu können, müssen Sie für einen Maps-API-Schlüssel mit Google registriert sein. Bis Sie dies tun, sehen Sie in Ihrer Anwendung nur ein leeres Raster anstatt einer Karte. Sie benötigen einen Google Maps Android-API v2-Schlüssel. Schlüssel von der älteren Google Maps Android-API-Schlüssel v1 funktioniert nicht.
 
 Ein Maps-API v2 Schlüssel umfasst die folgenden Schritte aus:
 
