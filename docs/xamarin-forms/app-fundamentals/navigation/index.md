@@ -26,7 +26,7 @@ Die [`NavigationPage`](https://developer.xamarin.com/api/type/Xamarin.Forms.Navi
 
 ## <a name="tabbedpagetabbed-pagemd"></a>[TabbedPage](tabbed-page.md)
 
-Der Xamarin.Forms [ `TabbedPage` ](https://developer.xamarin.com/api/type/Xamarin.Forms.TabbedPage/) besteht aus einer Liste von Registerkarten und ein größerer Detailbereich verfügbar, und jede Registerkarte Laden des Inhalts in den Bereich "Details".
+Der Xamarin.Forms [ `TabbedPage` ](https://developer.xamarin.com/api/type/Xamarin.Forms.TabbedPage/) besteht aus einer Liste von Registerkarten und einem größeren Detailbereich, und jede Registerkarte lädt die einzelnen Pages in der Detailseite.
 
 ## <a name="carouselpagecarousel-pagemd"></a>[CarouselPage](carousel-page.md)
 
