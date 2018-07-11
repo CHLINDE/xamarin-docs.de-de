@@ -16,7 +16,8 @@ ms.locfileid: "35241343"
 ---
 # <a name="xamarinforms-master-detail-page"></a>Xamarin.Forms Master / Detail-Seite
 
-_Die Xamarin.Forms-MasterDetailPage ist eine Seite, die verwaltet zwei verwandte Seiten mit Informationen – einer Masterseite, in dem Elemente dargestellt, und eine Detailseite, in dem Informationen zu Elementen auf der Seite "master" dargestellt. In diesem Artikel erläutert, wie eine MasterDetailPage und seine Seiten mit Informationen zu navigieren._
+_Die Xamarin.Forms-MasterDetailPage ist eine Seite, die zwei verwandte Seiten mit Informationen verwaltet – einer Masterseite, in der Elemente dargestellt, und eine Detailseite, in der Informationen zu Elementen der Seite "master" dargestellt werden. 
+In diesem Artikel wird erläutert, wie eine MasterDetailPage zur Navigation verwendet wird.
 
 ## <a name="overview"></a>Übersicht
 
